@@ -1,0 +1,11 @@
+scenedetect==0.7.1
+matplotlib
+numpy
+scipy
+torch
+torchvision
+pandas
+sympy
+tqdm
+opencv_python
+catboost
